@@ -1,4 +1,5 @@
 # mcp
+## MCP standardizes how AI models interact with tools and data
 
 🧱 High-Level MCP Architecture Overview
 
