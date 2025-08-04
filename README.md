@@ -21,3 +21,6 @@ Key Components:
 + uv run mcp
 + uv run mcp install server.py # install this server in Claude Desktop
 + uv run mcp dev server.py # test it with the MCP Inspector
+
++ # Server.py
++ - uv run mcp run server.py
