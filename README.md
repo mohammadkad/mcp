@@ -14,6 +14,7 @@ Key Components:
 - Tools – Executable functions like search, calculations
 - Sampling – Agentic behavior via recursive interactions
 
+## Quickstart:
 + uv init mcp-server-demo
 + cd mcp-server-demo
 + uv add "mcp[cli]"
