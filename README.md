@@ -24,4 +24,4 @@ Key Components:
 
 ### Server.py
 - uv run mcp run server.py
-- uv run mcp dev server.py # need to install MCP Inspector
+- uv run mcp dev server.py # need to install MCP Inspector, copy token to "Proxy Session Token"
