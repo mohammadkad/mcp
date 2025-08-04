@@ -19,7 +19,7 @@ Key Components:
 + cd mcp-server-demo
 + uv add "mcp[cli]"
 + uv run mcp
-+ uv run mcp install server.py # install this server in Claude Desktop
++ uv run mcp install server.py # install this server in Claude Desktop, https://claude.ai/download
 + uv run mcp dev server.py # test it with the MCP Inspector
 
 ### Server.py
