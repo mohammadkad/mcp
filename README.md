@@ -13,3 +13,11 @@ Key Components:
 - Prompts – Predefined workflows for guided generation
 - Tools – Executable functions like search, calculations
 - Sampling – Agentic behavior via recursive interactions
+
+- uv init mcp-server-demo
+- cd mcp-server-demo
+- uv add "mcp[cli]"
+- uv run mcp
+
+- uv run mcp install server.py # install this server in Claude Desktop
+- uv run mcp dev server.py # test it with the MCP Inspector
